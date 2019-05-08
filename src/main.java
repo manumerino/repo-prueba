@@ -1,0 +1,7 @@
+/**
+Codigo raro
+*/
+
+main(){
+//codigo
+}
